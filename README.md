@@ -1,2 +1,2 @@
 # Userinterface
-Source code webpage FRIEND FINDER berada dalam folder master
+Source code webpage FRIEND FINDER by Interest berada dalam folder master
